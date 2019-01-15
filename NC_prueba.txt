@@ -1,0 +1,262 @@
+Entorno de simulación listo para ejecutarse ...
+Iniciando simulación ...
+ 
+
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNO
+!"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOP
+"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQ
+#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQR
+$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRS
+
+
+
+
+
+
+
+
+Fecha 16/07/2018                   Hora 09:55:48
+************************************************
+******** RECUPERACION DE DATOS TERMINADA *******
+************************************************
+
+
+
+
+
+
+
+
+Nombre fantasia #1
+Nombre fantasia #2
+Nombre fantasia #3
+El Trebol S.A.
+C.U.I.T. Nro.: 23-12345678-5
+Ing. Brutos: Ingresos Brutos
+Domicilio: Domicilio Comercial #1
+Domicilio Comercial #2
+Domicilio Comercial #3
+Inicio de Actividades: 10/02/1979
+IVA RESPONSABLE INSCRIPTO
+------------------------------------------------
+TIQUE NOTA DE CREDITO "A" (Cód.112) 
+                               Nø 12345-00000001
+                                Fecha 16/07/2018
+                                   Hora 09:58:22
+------------------------------------------------
+16 DE MARZO
+Cliente No.9381
+C.U.I.T. Nro.: 30-70811386-3
+IVA RESPONSABLE INSCRIPTO
+VENEZUELA 4275
+1751 SAN JUSTO
+Vendedor: 1
+COMPROBANTES ASOCIADOS: 
+Cód. 081 - Tique Factura A        00001-00000002
+------------------------------------------------
+1,0000 u. x 82,6450
+ABROCHADORA AIFA CON GIRO HS2 (21)         82,65
+Subtotal                                   82,65
+
+SUBTOT. IMP. NETO GRAVADO                  82,65
+
+ALICUOTA 21,00%                            17,36
+TOTAL                          100,01
+
+
+
+------------------------------------------------
+               FIRMA Y ACLARACION               
+   REGISTRO: ABCDEF1234567890
+   V: 1.00  Ceres
+
+
+
+
+
+
+
+
+Nombre fantasia #1
+Nombre fantasia #2
+Nombre fantasia #3
+El Trebol S.A.
+C.U.I.T. Nro.: 23-12345678-5
+Ing. Brutos: Ingresos Brutos
+Domicilio: Domicilio Comercial #1
+Domicilio Comercial #2
+Domicilio Comercial #3
+Inicio de Actividades: 10/02/1979
+IVA RESPONSABLE INSCRIPTO
+------------------------------------------------
+TIQUE NOTA DE CREDITO "B" (Cód.113) 
+                               Nø 12345-00000005
+                                Fecha 16/07/2018
+                                   Hora 10:01:37
+------------------------------------------------
+AARSTED SRL
+Cliente No.5271
+C.U.I.T. Nro.: 30-70723835-2
+RESPONSABLE MONOTRIBUTO
+MARIANO SANTAMARIA 5350
+0 LA TABLADA
+Vendedor: 1
+COMPROBANTES ASOCIADOS: 
+Cód. 082 - Tique Factura B        00001-00000002
+------------------------------------------------
+1,0000 u. x 100,0000
+#ENVEJECE LA SEXUALIDAD?       (0)        100,00
+Subtotal                                  100,00
+TOTAL                          100,00
+
+
+
+------------------------------------------------
+               FIRMA Y ACLARACION               
+   REGISTRO: ABCDEF1234567890
+   V: 1.00  Ceres
+
+
+
+
+
+
+
+
+Nombre fantasia #1
+Nombre fantasia #2
+Nombre fantasia #3
+El Trebol S.A.
+C.U.I.T. Nro.: 23-12345678-5
+Ing. Brutos: Ingresos Brutos
+Domicilio: Domicilio Comercial #1
+Domicilio Comercial #2
+Domicilio Comercial #3
+Inicio de Actividades: 10/02/1979
+IVA RESPONSABLE INSCRIPTO
+------------------------------------------------
+TIQUE NOTA DE CREDITO "B" (Cód.113) 
+                               Nø 12345-00000006
+                                Fecha 16/07/2018
+                                   Hora 10:06:04
+------------------------------------------------
+AARSTED SRL
+Cliente No.5271
+C.U.I.T. Nro.: 30-70723835-2
+RESPONSABLE MONOTRIBUTO
+MARIANO SANTAMARIA 5350
+0 LA TABLADA
+Vendedor: 1
+COMPROBANTES ASOCIADOS: 
+Cód. 082 - Tique Factura B        00001-00000002
+------------------------------------------------
+1,0000 u. x 100,0005
+ABROCHADORA AIFA HS407 P/12HJ (21)        100,00
+Subtotal                                  100,00
+TOTAL                          100,00
+
+
+
+------------------------------------------------
+               FIRMA Y ACLARACION               
+   REGISTRO: ABCDEF1234567890
+   V: 1.00  Ceres
+
+
+
+
+
+
+
+
+Nombre fantasia #1
+Nombre fantasia #2
+Nombre fantasia #3
+El Trebol S.A.
+C.U.I.T. Nro.: 23-12345678-5
+Ing. Brutos: Ingresos Brutos
+Domicilio: Domicilio Comercial #1
+Domicilio Comercial #2
+Domicilio Comercial #3
+Inicio de Actividades: 10/02/1979
+IVA RESPONSABLE INSCRIPTO
+------------------------------------------------
+TIQUE FACTURA "B" (Cód.082)    Nø 12345-00000006
+                                Fecha 16/07/2018
+                                   Hora 10:07:04
+------------------------------------------------
+ABAS WALTER MARTIN
+Cliente No.5330
+C.U.I.T. Nro.: 20-21886826-7
+IVA EXENTO
+DOMICILIO FISCAL IBARROLA 285
+0 TABLADA
+Vendedor: 1
+COMPROBANTES ASOCIADOS: 
+                                  00001-00000001
+------------------------------------------------
+1,0000 u. x 199,9997
+ACRILICO ALBA DECORALBA X 40M (21)        200,00
+Subtotal                                  200,00
+TOTAL                          200,00
+RECIBI/MOS
+Pago automatico
+Efectivo                                  200,00
+Suma de sus pagos                         200,00
+Su Vuelto                                   0,00
+   REGISTRO: ABCDEF1234567890
+   V: 1.00  Ceres
+
+
+
+
+
+
+
+
+Nombre fantasia #1
+Nombre fantasia #2
+Nombre fantasia #3
+El Trebol S.A.
+C.U.I.T. Nro.: 23-12345678-5
+Ing. Brutos: Ingresos Brutos
+Domicilio: Domicilio Comercial #1
+Domicilio Comercial #2
+Domicilio Comercial #3
+Inicio de Actividades: 10/02/1979
+IVA RESPONSABLE INSCRIPTO
+------------------------------------------------
+TIQUE NOTA DE CREDITO "B" (Cód.113) 
+                               Nø 12345-00000007
+                                Fecha 16/07/2018
+                                   Hora 10:07:40
+------------------------------------------------
+ABAS WALTER MARTIN
+Cliente No.5330
+C.U.I.T. Nro.: 20-21886826-7
+IVA EXENTO
+DOMICILIO FISCAL IBARROLA 285
+0 TABLADA
+Vendedor: 1
+COMPROBANTES ASOCIADOS: 
+Cód. 082 - Tique Factura B        00001-00000006
+------------------------------------------------
+1,0000 u. x 199,9997
+ACRILICO ALBA DECORALBA X 40M (21)        200,00
+Subtotal                                  200,00
+TOTAL                          200,00
+
+
+
+------------------------------------------------
+               FIRMA Y ACLARACION               
+   REGISTRO: ABCDEF1234567890
+   V: 1.00  Ceres
+
+
+
+
+
+
+
+
